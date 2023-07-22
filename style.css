@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+}
+
+header img {
+    padding: 10px;
+}
+
+main h1 {
+    color: navy;
+    text-align: center;
+}
+
+footer p{
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+nav {
+    background-color: rgb(43, 117, 43);
+    padding: 5px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 70px;
+}
+
+.turpal {
+    background-color: brown;
+    padding: 10px;
+    border-radius: 15px;
+}
